@@ -261,4 +261,4 @@ parte-4-seguranca-jwt (CRUD + relacionamentos + autenticação JWT)
 ---
 
 Projeto desenvolvido durante o curso da **Generation Brasil** - Turma 82 
----
+
